@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
-Implementation-Title: e
-Implementation-Version: 1.0-SNAPSHOT
-Implementation-Vendor-Id: c.d
-Build-Jdk: 1.7.0_79
-Built-By: jiawei
-Created-By: Maven Integration for Eclipse
-
